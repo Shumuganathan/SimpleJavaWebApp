@@ -37,7 +37,7 @@ You have downloaded a zip file with the binary distribution of Tomcat. Unzip the
 8. DONE
 
 
-### Create new project
+### Create new project likhitha
 
 1. Open IntelliJ IDEA Ultimate
 2. Select "Create New Project"
